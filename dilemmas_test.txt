@@ -1,0 +1,11 @@
+Il Bug Medico: Il codice è pronto, ma scopri un bug minore. Se rinvii il lancio per correggerlo causi perdite milionarie e licenziamenti; se procedi, c'è lo 0.1% di probabilità di danneggiare un paziente. Lanci il software o rimandi?
+
+I Dati Rubati: Per rendere la tua IA medica precisa al 100% ti servono dati clinici privati pubblicati illegalmente sul dark web. Se li usi violi la privacy; se non li usi, l'IA sarà imprecisa e rischiosa. Usi i dati hackerati?
+
+L'Algoritmo Spazzino: L'azienda ti chiede di creare un'IA che licenzi il 10% del personale meno produttivo (i più anziani) per evitare il fallimento. Se rifiuti ti dimetti, se accetti salvi l'azienda ma rovini delle famiglie. Programmi l'algoritmo?
+
+Il Deepfake Utile: Una no-profit ti chiede un video deepfake falso in cui un dittatore ammette i suoi crimini. Il video scatenerà una rivoluzione pacifica salvando vite, ma si basa su una menzogna totale. Crei il deepfake?
+
+La Promozione Rubata: Per ottenere il posto dei tuoi sogni puoi segnalare anonimamente un errore formale (ma innocuo) del tuo unico rivale. Se taci, il posto va a lui. Fai la spia alle Risorse Umane?
+
+Il Segreto del Collega: Un amico ruba pochi soldi dall'azienda per curare il figlio. Il capo non sa chi sia stato e incolpa uno stagista innocente. Denunci l'amico o lasci che lo stagista venga licenziato?
